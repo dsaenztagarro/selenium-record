@@ -49,7 +49,7 @@ module SeleniumRecord
     end
 
     def click(locator)
-      find(locator).click
+      cover { find(locator).click }
     end
 
     def fill(locator, text)
