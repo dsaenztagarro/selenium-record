@@ -1,6 +1,7 @@
 [![Gem Version](https://badge.fury.io/rb/seleniumrecord.svg)](http://badge.fury.io/rb/seleniumrecord)
 [![Code Climate](https://codeclimate.com/github/dsaenztagarro/selenium-record/badges/gpa.svg)](https://codeclimate.com/github/dsaenztagarro/selenium-record)
 [![Dependency Status](https://gemnasium.com/dsaenztagarro/selenium-record.svg)](https://gemnasium.com/dsaenztagarro/selenium-record)
+[![Inline docs](http://inch-ci.org/github/dsaenztagarro/selenium-record.svg?branch=master)](http://inch-ci.org/github/dsaenztagarro/selenium-record)
 
 # SeleniumRecord
 
